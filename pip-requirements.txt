@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pymystem3
+fuzzywuzzy
+python-Levenshtein
